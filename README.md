@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @seyedalireza-pakdamanshahri but everyone call me Arshia
 - 👀 I’m interested in data science and machine learning
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning c++ and JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Alirezapakdaman23@gmail.com
 <!---
