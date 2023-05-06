@@ -45,7 +45,7 @@ I'm a versatile and passionate programmer with expertise in Python, JavaScript, 
       <strong>Keras</strong>
     </td>
     <td align="center" width="140">
-      <img src="https://cdn.worldvectorlogo.com/logos/pytorch.svg" width="50" /><br />
+      <img src="https://pytorch.org/assets/images/pytorch-logo.png" width="50" /><br />
       <strong>PyTorch</strong>
     </td>
     <td align="center" width="140">
