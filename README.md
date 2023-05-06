@@ -59,5 +59,39 @@ I'm a versatile and passionate programmer with expertise in Python, JavaScript, 
 
 | 🔧 | Project | 🌐 | Repository | 📖 | Description |
 | :-: | ------- | :-: | ---------- | :-: | ----------- |
-| 1️⃣ | [Project 1](https://project1.example.com) | [Demo](https://project1-demo.example.com) | [Repo](https://github.com/seyedalireza-pakdamanshahri/project1) | [Docs](https://project1-docs.example.com) | A brief description of Project 1 |
-| 2️⃣ | [Project 2](https://project2.example.com) | [Demo](https://
+| 2️⃣ | [Project 2](https://project2.example.com) | [Demo](https://project2-demo.example.com) | [Repo](https://github.com/seyedalireza-pakdamanshahri/project2) | [Docs](https://project2-docs.example.com) | A brief description of Project 2 |
+| 3️⃣ | [Project 3](https://project3.example.com) | [Demo](https://project3-demo.example.com) | [Repo](https://github.com/seyedalireza-pakdamanshahri/project3) | [Docs](https://project3-docs.example.com) | A brief description of Project 3 |
+
+
+## 🏆 Achievements & Certifications
+
+- **Certification 1**: [Course Title](https://certification-link.example.com) - Issuing Organization
+- **Certification 2**: [Course Title](https://certification-link.example.com) - Issuing Organization
+- **Award 1**: [Award Title](https://award-link.example.com) - Issuing Organization
+- **Award 2**: [Award Title](https://award-link.example.com) - Issuing Organization
+
+## 🌍 Languages
+
+- English: Fluent
+- [Language 2]: [Proficiency Level]
+- [Language 3]: [Proficiency Level]
+
+## 🌟 Let's Connect
+
+If you're seeking a skilled, adaptable, and enthusiastic programmer who can contribute to your team's success and drive innovation, I'm the perfect candidate. Let's connect, and together, we can achieve great things!
+
+- 📧 Email: [alirezapakdaman23@gmail.com](mailto:alirezapakdaman23@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/seyedalireza-pakdamanshahri](https://www.linkedin.com/in/seyedalireza-pakdamanshahri)
+- 🐦 Twitter: [@Arshia](https://twitter.com/Arshia)
+
+<p align="center">
+  <a href="https://github.com/seyedalireza-pakdamanshahri">
+    <img src="https://img.shields.io/github/followers/seyedalireza-pakdamanshahri?label=Follow&style=social" alt="GitHub Badge" />
+  </a>
+  <a href="https://twitter.com/Arshia">
+    <img src="https://img.shields.io/twitter/follow/Arshia?style=social" alt="Twitter Badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/seyedalireza-pakdamanshahri">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/seyedalireza-pakdamanshahri" alt="LinkedIn Badge" />
+  </a>
+</p>
