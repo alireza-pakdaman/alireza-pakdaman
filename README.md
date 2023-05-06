@@ -54,14 +54,7 @@ I'm a versatile and passionate programmer with expertise in Python, JavaScript, 
     </td>
   </tr>
 </table>
-<!-- 
-## 🌟 Projects
 
-| 🔧 | Project | 🌐 | Repository | 📖 | Description |
-| :-: | ------- | :-: | ---------- | :-: | ----------- |
-| 2️⃣ | [Project 2](https://project2.example.com) | [Demo](https://project2-demo.example.com) | [Repo](https://github.com/seyedalireza-pakdamanshahri/project2) | [Docs](https://project2-docs.example.com) | A brief description of Project 2 |
-| 3️⃣ | [Project 3](https://project3.example.com) | [Demo](https://project3-demo.example.com) | [Repo](https://github.com/seyedalireza-pakdamanshahri/project3) | [Docs](https://project3-docs.example.com) | A brief description of Project 3 |
--->
 
 ## 🏆 Achievements & Certifications
 
