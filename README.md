@@ -41,7 +41,7 @@ I'm a versatile and passionate programmer with expertise in Python, JavaScript, 
       <strong>TensorFlow</strong>
     </td>
     <td align="center" width="140">
-      <img src="https://cdn.worldvectorlogo.com/logos/keras.svg" width="50" /><br />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" width="50" /><br />
       <strong>Keras</strong>
     </td>
     <td align="center" width="140">
