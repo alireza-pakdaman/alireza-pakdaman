@@ -55,14 +55,6 @@ I'm a versatile and passionate programmer with expertise in Python, JavaScript, 
   </tr>
 </table>
 
-
-## 🏆 Achievements & Certifications
-
-- **Certification 1**: [Course Title](https://certification-link.example.com) - Issuing Organization
-- **Certification 2**: [Course Title](https://certification-link.example.com) - Issuing Organization
-- **Award 1**: [Award Title](https://award-link.example.com) - Issuing Organization
-- **Award 2**: [Award Title](https://award-link.example.com) - Issuing Organization
-
 ## 🌍 Languages
 
 - English: Fluent
