@@ -66,7 +66,7 @@ I'm a versatile and passionate programmer with expertise in Python, JavaScript, 
 If you're seeking a skilled, adaptable, and enthusiastic programmer who can contribute to your team's success and drive innovation, I'm the perfect candidate. Let's connect, and together, we can achieve great things!
 
 - 📧 Email: [alirezapakdaman23@gmail.com](mailto:alirezapakdaman23@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/arshia-pakdaman-shahri](https://www.linkedin.com/in/arshia-pakdaman-shahri-07886324b))
+- 💼 LinkedIn: [linkedin.com/in/arshia-pakdaman-shahri](https://www.linkedin.com/in/arshia-pakdaman-shahri-07886324b)
  <!-- 🐦 Twitter: [@Arshia](https://twitter.com/Arshia)-->
 
 <p align="center">
@@ -75,6 +75,6 @@ If you're seeking a skilled, adaptable, and enthusiastic programmer who can cont
   </a>
  
   <a href="https://www.linkedin.com/in/seyedalireza-pakdamanshahri">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/seyedalireza-pakdamanshahri" alt="LinkedIn Badge" />
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/arshia-pakdaman-shahri-07886324b" alt="LinkedIn Badge" />
   </a>
 </p>
