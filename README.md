@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Arshia! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
+<!-- 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/your-image-url-here" alt="Arshia's Avatar" />
 </p>
-
+-->
 I'm a versatile and passionate programmer with expertise in Python, JavaScript, and Kotlin, always eager to learn and explore new areas in technology.
 
 ## 🚀 Skills
