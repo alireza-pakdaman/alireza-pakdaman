@@ -54,7 +54,7 @@ I'm a versatile and passionate programmer with expertise in Python, JavaScript, 
     </td>
   </tr>
 </table>
-
+<!-- 
 ## 🌟 Projects
 
 | 🔧 | Project | 🌐 | Repository | 📖 | Description |
@@ -69,12 +69,12 @@ I'm a versatile and passionate programmer with expertise in Python, JavaScript, 
 - **Certification 2**: [Course Title](https://certification-link.example.com) - Issuing Organization
 - **Award 1**: [Award Title](https://award-link.example.com) - Issuing Organization
 - **Award 2**: [Award Title](https://award-link.example.com) - Issuing Organization
-
+-->
 ## 🌍 Languages
 
 - English: Fluent
-- [Language 2]: [Proficiency Level]
-- [Language 3]: [Proficiency Level]
+- French: Intermidiate
+- farsi: Fluent
 
 ## 🌟 Let's Connect
 
@@ -82,15 +82,13 @@ If you're seeking a skilled, adaptable, and enthusiastic programmer who can cont
 
 - 📧 Email: [alirezapakdaman23@gmail.com](mailto:alirezapakdaman23@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/seyedalireza-pakdamanshahri](https://www.linkedin.com/in/seyedalireza-pakdamanshahri)
-- 🐦 Twitter: [@Arshia](https://twitter.com/Arshia)
+- <!-- 🐦 Twitter: [@Arshia](https://twitter.com/Arshia)-->
 
 <p align="center">
   <a href="https://github.com/seyedalireza-pakdamanshahri">
     <img src="https://img.shields.io/github/followers/seyedalireza-pakdamanshahri?label=Follow&style=social" alt="GitHub Badge" />
   </a>
-  <a href="https://twitter.com/Arshia">
-    <img src="https://img.shields.io/twitter/follow/Arshia?style=social" alt="Twitter Badge" />
-  </a>
+ 
   <a href="https://www.linkedin.com/in/seyedalireza-pakdamanshahri">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/seyedalireza-pakdamanshahri" alt="LinkedIn Badge" />
   </a>
