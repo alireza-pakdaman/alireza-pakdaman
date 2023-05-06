@@ -33,7 +33,7 @@ I'm a versatile and passionate programmer with expertise in Python, JavaScript, 
   </tr>
   <tr>
     <td align="center" width="140">
-      <img src="https://cdn.worldvectorlogo.com/logos/sql-2.svg" width="50" /><br />
+      <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" width="50" /><br />
       <strong>SQL</strong>
     </td>
     <td align="center" width="140">
