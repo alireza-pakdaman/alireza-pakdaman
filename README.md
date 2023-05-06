@@ -67,7 +67,7 @@ If you're seeking a skilled, adaptable, and enthusiastic programmer who can cont
 
 - 📧 Email: [alirezapakdaman23@gmail.com](mailto:alirezapakdaman23@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/seyedalireza-pakdamanshahri](https://www.linkedin.com/in/seyedalireza-pakdamanshahri)
-- <!-- 🐦 Twitter: [@Arshia](https://twitter.com/Arshia)-->
+ <!-- 🐦 Twitter: [@Arshia](https://twitter.com/Arshia)-->
 
 <p align="center">
   <a href="https://github.com/seyedalireza-pakdamanshahri">
