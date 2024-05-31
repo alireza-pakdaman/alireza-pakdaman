@@ -82,5 +82,5 @@ If you're seeking a skilled, adaptable, and enthusiastic programmer who can cont
 <!-- TryHackMe Badge -->
 <!-- TryHackMe Badge -->
 <p align="center">
-  <script src="https://tryhackme.com/badge/2870054"></script>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/kalipy.png" alt="TryHackMe">
 </p>
