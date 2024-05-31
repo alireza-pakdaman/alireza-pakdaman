@@ -119,16 +119,11 @@ If you're seeking a skilled, adaptable, and enthusiastic programmer who can cont
   </a>
 </p>
 
-## 📈 Profile Visitor Counter
-
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=alireza-pakdaman" alt="Profile Visitor Counter" />
-</p>
 
 ## 🛡️ TryHackMe Badge
 
 <p align="center">
-  <a href="https://tryhackme.com/p/kalipy"><img src="https://tryhackme-badges.s3.amazonaws.com/2870054.png" alt="TryHackMe"></a>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/kalipy.png" alt="TryHackMe">
 </p>
 
 <!-- wave effect -->
