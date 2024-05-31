@@ -121,8 +121,6 @@ If you're seeking a skilled, adaptable, and enthusiastic programmer who can cont
   </a>
 </p>
 
-## 📈 Profile Visitor Counter
-
 <p align="center">
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=arshia&label=Profile%20Views&icon=5&pretty=true" />
