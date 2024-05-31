@@ -119,8 +119,6 @@ If you're seeking a skilled, adaptable, and enthusiastic programmer who can cont
   <a href="https://www.linkedin.com/in/arshia-pakdaman-shahri-07886324b/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/arshia-pakdaman-shahri-07886324b" alt="LinkedIn Badge" />
   </a>
-</p>
-<p align="center">
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=arshia&label=Profile%20Views&icon=5&pretty=true" />
 </a>
