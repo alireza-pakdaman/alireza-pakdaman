@@ -8,7 +8,7 @@
 
 I'm a versatile and passionate programmer with expertise in Python, JavaScript, and Kotlin, always eager to learn and explore new areas in technology. Honesty at work, high flexibility, and a strong commitment to my duties are my key behavioral traits. I'm constantly seeking to learn new things and improve myself.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&weight=100&size=23&duration=3000&pause=1000&color=00F3B8&background=00000000&vCenter=true&width=500&lines=What's+up,+I'm+Alireza+aka+Kalipy;I'm+an+Ethical+Hacker;I'm+a+Python+Developer;I'm+an+AI+Enthusiast;I'm+a+Back-End+Developer;I'm+a+Freelancer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&weight=100&size=23&duration=3000&pause=1000&color=00F3B8&background=00000000&vCenter=true&width=500&lines=What's+up,+I'm+Alireza;I'm+an+Ethical+Hacker;I'm+a+Python+Developer;I'm+an+AI+Enthusiast;I'm+a+Back-End+Developer;I'm+a+Freelancer)](https://git.io/typing-svg)
 
 
 
