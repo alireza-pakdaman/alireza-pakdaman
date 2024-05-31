@@ -1,9 +1,11 @@
 # 👋 Hi, I'm Arshia! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 <!-- 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/your-image-url-here" alt="Arshia's Avatar" />
 </p>
 -->
+
 I'm a versatile and passionate programmer with expertise in Python, JavaScript, and Kotlin, always eager to learn and explore new areas in technology.
 
 ## 🚀 Skills
@@ -58,8 +60,8 @@ I'm a versatile and passionate programmer with expertise in Python, JavaScript, 
 ## 🌍 Languages
 
 - English: Fluent
-- French: Intermidiate
-- farsi: Fluent
+- French: Intermediate
+- Farsi: Fluent
 
 ## 🌟 Let's Connect
 
@@ -67,14 +69,17 @@ If you're seeking a skilled, adaptable, and enthusiastic programmer who can cont
 
 - 📧 Email: [alirezapakdaman23@gmail.com](mailto:alirezapakdaman23@gmail.com)
 - 💼 LinkedIn: [https://www.linkedin.com/in/arshia-pakdaman-shahri](https://www.linkedin.com/in/arshia-pakdaman-shahri-07886324b)
- <!-- 🐦 Twitter: [@Arshia](https://twitter.com/Arshia)-->
 
 <p align="center">
-  <a href="https://github.com/seyedalireza-pakdamanshahri">
-    <img src="https://img.shields.io/github/followers/seyedalireza-pakdamanshahri?label=Follow&style=social" alt="GitHub Badge" />
+  <a href="https://github.com/alireza-pakdaman">
+    <img src="https://img.shields.io/github/followers/alireza-pakdaman?label=Follow&style=social" alt="GitHub Badge" />
   </a>
- 
-   <a href="https://www.linkedin.com/in/arshia-pakdaman-shahri-07886324b/">
+  <a href="https://www.linkedin.com/in/arshia-pakdaman-shahri-07886324b/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/arshia-pakdaman-shahri-07886324b" alt="LinkedIn Badge" />
   </a>
+</p>
+
+<!-- TryHackMe Badge -->
+<p align="center">
+  <img src="https://tryhackme.com/badge/2870054" alt="TryHackMe Badge" />
 </p>
