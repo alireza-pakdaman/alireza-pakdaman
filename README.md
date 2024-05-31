@@ -80,6 +80,7 @@ If you're seeking a skilled, adaptable, and enthusiastic programmer who can cont
 </p>
 
 <!-- TryHackMe Badge -->
+<!-- TryHackMe Badge -->
 <p align="center">
-  <img src="https://tryhackme.com/badge/2870054" alt="TryHackMe Badge" />
+  <script src="https://tryhackme.com/badge/2870054"></script>
 </p>
