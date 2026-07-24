@@ -1,6 +1,6 @@
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:7F5AF0,100:2CB67D&amp;height=190&amp;section=header&amp;text=Hi%2C%20I%27m%20Arshia%21&amp;fontSize=42&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=36&amp;desc=Python%20%C2%B7%20JavaScript%20%C2%B7%20Kotlin&amp;descAlignY=58&amp;descSize=18"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,100:2CB67D&height=190&section=header&text=Hi%2C%20I%27m%20Arshia%21&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38"
   alt="Hi, I'm Arshia — Python, JavaScript, and Kotlin developer"
 />
 
@@ -16,7 +16,7 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=21&amp;duration=2800&amp;pause=900&amp;color=7F5AF0&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=620&amp;height=45&amp;lines=Python+Developer;Backend+Developer;AI+Enthusiast;Ethical+Hacker;Freelancer"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2800&pause=900&color=7F5AF0&center=true&vCenter=true&repeat=true&width=600&lines=Python+Developer%3B+Backend+Developer%3B+AI+Enthusiast%3B+Ethical+Hacker%3B+Freelancer"
       alt="Python Developer, Backend Developer, AI Enthusiast, Ethical Hacker, and Freelancer"
     />
   </a>
@@ -76,28 +76,28 @@
 <h4 align="center">Web & Backend</h4>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&amp;logo=redux&amp;logoColor=white" alt="Redux" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&amp;logo=graphql&amp;logoColor=white" alt="GraphQL" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&amp;logo=express&amp;logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
 <h4 align="center">Cloud & DevOps</h4>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&amp;logo=kubernetes&amp;logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&amp;logo=ansible&amp;logoColor=white" alt="Ansible" />
-  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&amp;logo=terraform&amp;logoColor=white" alt="Terraform" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&amp;logo=amazonwebservices&amp;logoColor=white" alt="Amazon Web Services" />
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&amp;logo=googlecloud&amp;logoColor=white" alt="Google Cloud" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&amp;logo=microsoftazure&amp;logoColor=white" alt="Microsoft Azure" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="Amazon Web Services" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure" />
 </p>
 
 <h2 align="center">🌍 Languages</h2>
@@ -114,14 +114,14 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       height="170"
-      src="https://github-readme-stats.vercel.app/api?username=alireza-pakdaman&amp;show_icons=true&amp;hide_border=true&amp;border_radius=12&amp;bg_color=0D1117&amp;title_color=7F5AF0&amp;text_color=FFFFFF&amp;icon_color=2CB67D"
+      src="https://github-readme-stats.vercel.app/api?username=alireza-pakdaman&show_icons=true&hide_border=true&border_radius=12&bg_color=0D1117&title_color=7F5AF0&text_color=FFFFFF&icon_color=2CB67D"
       alt="Arshia's GitHub stats"
     />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       height="170"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=alireza-pakdaman&amp;layout=compact&amp;hide_border=true&amp;border_radius=12&amp;bg_color=0D1117&amp;title_color=7F5AF0&amp;text_color=FFFFFF"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=alireza-pakdaman&layout=compact&hide_border=true&border_radius=12&bg_color=0D1117&title_color=7F5AF0&text_color=FFFFFF"
       alt="Arshia's most-used languages on GitHub"
     />
   </a>
@@ -132,7 +132,7 @@
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img
-      src="https://streak-stats.demolab.com?user=alireza-pakdaman&amp;hide_border=true&amp;border_radius=12&amp;background=0D1117&amp;ring=7F5AF0&amp;fire=2CB67D&amp;currStreakLabel=2CB67D&amp;sideLabels=FFFFFF&amp;currStreakNum=FFFFFF&amp;sideNums=FFFFFF&amp;dates=9CA3AF"
+      src="https://streak-stats.demolab.com?user=alireza-pakdaman&hide_border=true&border_radius=12&background=0D1117&ring=7F5AF0&fire=2CB67D&currStreakLabel=2CB67D&sideLabels=F0F6FC&dates=FFFFFF"
       alt="Arshia's GitHub contribution streak"
     />
   </a>
@@ -146,18 +146,18 @@
 
 <p align="center">
   <a href="mailto:alirezapakdaman23@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Arshia" />
+    <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Arshia" />
   </a>
   <a href="https://www.linkedin.com/in/arshia-pakdaman-shahri-07886324b/">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Connect with Arshia on LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Arshia on LinkedIn" />
   </a>
   <a href="https://github.com/alireza-pakdaman">
-    <img src="https://img.shields.io/github/followers/alireza-pakdaman?label=Follow&amp;style=for-the-badge&amp;logo=github" alt="Follow Arshia on GitHub" />
+    <img src="https://img.shields.io/github/followers/alireza-pakdaman?label=Follow&style=for-the-badge&logo=github" alt="Follow Arshia on GitHub" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alireza-pakdaman&amp;label=Profile%20views&amp;color=7F5AF0&amp;style=flat-square" alt="Profile view counter" />
+  <img src="https://komarev.com/ghpvc/?username=alireza-pakdaman&label=Profile%20views&color=7F5AF0&style=flat-square" alt="Profile view counter" />
 </p>
 
 <h2 align="center">🛡️ TryHackMe</h2>
@@ -170,6 +170,6 @@
 
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2CB67D,100:7F5AF0&amp;height=110&amp;section=footer"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:2CB67D,100:7F5AF0&height=110&section=footer"
   alt=""
 />
