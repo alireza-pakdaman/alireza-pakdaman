@@ -1,11 +1,11 @@
 <img
   width="100%"
   src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:7F5AF0,100:2CB67D&amp;height=190&amp;section=header&amp;text=Hi%2C%20I%27m%20Arshia%21&amp;fontSize=42&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=36&amp;desc=Python%20%C2%B7%20JavaScript%20%C2%B7%20Kotlin&amp;descAlignY=58&amp;descSize=18"
-  alt="Hi, I'm Arshia — Python, JavaScript, and Kotlin developer"
+  alt="Hi, I'm Alireza — Python, JavaScript, and Kotlin developer"
 />
 
 <p align="center">
-  Hey, I'm Arshia. I like building things, solving problems, and learning as I go.
+  Hey, I'm Alireza I like building things, solving problems, and learning as I go.
   I spend most of my time with Python, JavaScript, and Kotlin, but I'm always up for exploring something new.
 </p>
 
